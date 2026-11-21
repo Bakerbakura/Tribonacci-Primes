@@ -1,0 +1,10 @@
+Primes p < 100000000 (excluding 2, 11) with T_(N0-1) or T_(N0) ≡ 0 (mod p^2):
+p, N0(p), p21, p22
+3, 13, 1, 1
+5, 31, 1, 0
+7, 16, 1, 0
+97, 3169, 1, 0
+103, 17, 0, 1
+2621, 2620, 0, 1
+92377, 2844503376, 0, 1
+7 found among 5761453 primes; elapsed 2769.5 s on 12 worker processes
